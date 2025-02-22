@@ -1,0 +1,36 @@
+# Ignorar arquivos de compilação do Delphi
+*.dcu
+*.dcp
+*.dsk
+*.identcache
+*.local
+*.exe
+*.obj
+*.bak
+
+# Ignorar arquivos de configuração do Delphi
+*.dproj
+*.groupproj
+*.local
+
+# Ignorar pastas de dependências
+__history__
+Debug/
+Release/
+bin/
+obj/
+lib/
+
+# Ignorar arquivos de sistema do OS (Windows/Mac/Linux)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.~*
+*.tmp
+*.swp
